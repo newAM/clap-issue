@@ -1,0 +1,13 @@
+[package]
+name = "cli"
+version = "0.1.0"
+authors = ["Alex M. <alexmgit@protonmail.com>"]
+edition = "2018"
+
+[dependencies.clap]
+git = "https://github.com/clap-rs/clap.git"
+rev = "fad3d9632ebde36004455084df2c9052afe40855"
+
+[dependencies.clap_derive]
+git = "https://github.com/clap-rs/clap.git"
+rev = "fad3d9632ebde36004455084df2c9052afe40855"
